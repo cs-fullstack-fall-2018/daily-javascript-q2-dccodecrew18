@@ -28,7 +28,7 @@ You are reviewing another developer's code. The body of the page contains the fo
 
 What will be displayed when the page is previewed in the browser?
 
-A) x == y;t === 33
+A) x == y;t === 33    Answer is A !!!  the first 
 
 B) x === y;t === 33
 
